@@ -6,7 +6,7 @@
 exports.view = function(req, res){
   res.render('index', {
     'projects': [
-      { 'name': 'Waiting in Line',
+      { 'name': 'The Freshmen Experience',
         'image': 'lorempixel.people.1.jpeg',
         'id': 'project1'
       },
